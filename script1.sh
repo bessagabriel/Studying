@@ -1,5 +1,7 @@
 #!/bin/bash
-#Eu sou tryber e amo muito a renata!
+
+#Vou ter muito sucesso na programacao
+
 var="Shell Script com variáveis é demais!"
 
 echo $var
